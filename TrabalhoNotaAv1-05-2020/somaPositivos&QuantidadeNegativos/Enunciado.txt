@@ -1,0 +1,1 @@
+4)Entrar com 20 números e imprimir a soma dos positivos e a quantidade de números negativos.

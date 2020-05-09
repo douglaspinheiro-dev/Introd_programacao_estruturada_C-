@@ -1,0 +1,2 @@
+1) Um técnico de voleibol está selecionando atletas que tenham altura maior doque 1,75 e idade menor do que 15 anos. 
+Construa um programa em C++ que deixe entrar com a idade e a altura e exiba uma das mensagens: “selecionado” ou “não selecionada”.

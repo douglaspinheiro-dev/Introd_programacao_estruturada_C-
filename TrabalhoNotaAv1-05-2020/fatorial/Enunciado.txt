@@ -1,0 +1,1 @@
+3)Entrar com um número e imprimir o fatorial desse número.

@@ -1,0 +1,4 @@
+6) Construa um programa em C++ que deixe entrar com três números para as variáveis a, b, c. 
+Trocar os conteúdos das variáveis de tal maneira que na variável a fique o menor número,
+ na variável b o número do meio e na variável c, o maior número. 
+ Exibi-los em ordem decrescente (suponha números diferentes).

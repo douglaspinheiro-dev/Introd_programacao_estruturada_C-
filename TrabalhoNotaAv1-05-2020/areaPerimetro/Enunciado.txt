@@ -1,0 +1,1 @@
+2) Construa um programa que exiba a área e o perímetro de um retângulo que tem seus lados informados pelo usuário.

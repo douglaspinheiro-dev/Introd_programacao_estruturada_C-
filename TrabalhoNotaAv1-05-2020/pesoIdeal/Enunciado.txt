@@ -1,0 +1,5 @@
+5) Segundo uma tabela médica que deixará qualquer um frustrado, o peso ideal está relacionado com a altura e sexo. 
+Construa um programa em C++ que receba a altura e o sexo de uma pessoa, 
+calcule e exiba o seu peso ideal, utilizando as seguintes fórmulas:
+• homens: (72.7 * altura) –58
+• mulheres: (62.1 * altura) –44.7

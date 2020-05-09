@@ -1,0 +1,2 @@
+7) Construa um programa em C++ que leia a idade de uma pessoa e informe a sua classe eleitoral. 
+Pesquise na no site do TER caso você não tenha certeza:“não eleitor “  ou “eleitor obrigatório”.
