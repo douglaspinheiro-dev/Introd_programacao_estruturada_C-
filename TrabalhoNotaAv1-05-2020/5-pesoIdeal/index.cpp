@@ -2,7 +2,8 @@
 using namespace std;
 
 int main(void){
-    char sexo, continuar;
+    char sexo, resposta;
+    bool continuar;
     float altura, i, pesoIdeal;
 
     do {
@@ -31,7 +32,8 @@ int main(void){
         cout << "Deseja continuar?" << endl;
         cout << "1 - SIM" << endl;
         cout << "Qualquer outro digito - NAO" << endl;
-        cin >> continuar;
+        cin >> resposta;
+        continuar = (resposta == 1 || resposta == '1');
 
     } while (continuar == 1);
 

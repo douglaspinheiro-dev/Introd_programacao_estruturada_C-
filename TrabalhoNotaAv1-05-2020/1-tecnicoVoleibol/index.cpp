@@ -6,7 +6,7 @@ int main(void){
 
 	int idade;
     float altura;
-    bool continuar, selecionado;
+    bool selecionado, continuar;
     char resposta;
 
     do {
@@ -30,8 +30,9 @@ int main(void){
         
         cout << "Deseja continuar?" << endl;
         cout << "1 - SIM" << endl;
-        cout << "0 - NAO" << endl;
-        cin >> continuar;
+        cout << "Qualquer outro digito - NAO" << endl;
+        cin >> resposta;
+        continuar = (resposta == 1 || resposta == '1');
 
     } while (continuar == 1);
     

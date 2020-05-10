@@ -6,6 +6,7 @@ int main(void){
 
     float base, altura, area, perimetro;
     bool continuar;
+    char resposta;
 
     do {
         cout << "******************************************" << endl;
@@ -26,8 +27,9 @@ int main(void){
         
         cout << "Deseja continuar?" << endl;
         cout << "1 - SIM" << endl;
-        cout << "0 - NAO" << endl;
-        cin >> continuar;
+        cout << "Qualquer outro digito - NAO" << endl;
+        cin >> resposta;
+        continuar = (resposta == 1 || resposta == '1');
 
     } while (continuar == 1);
     

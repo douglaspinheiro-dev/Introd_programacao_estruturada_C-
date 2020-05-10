@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(void){
-    char sexo, resposta;
+    char resposta;
     bool continuar;
     int a, b, c, primeiro, segundo, terceiro;
     do {
@@ -56,8 +56,6 @@ int main(void){
         b = segundo;
         a = primeiro;
         
-
-
         cout << "Ordem Decrescente: C: " << c << ", B: " << b << ", A: " << a << endl;
         
         cout << "Deseja continuar?" << endl;
